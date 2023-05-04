@@ -1,29 +1,11 @@
 [
     {
-        "actDate": "3/20/2022",
+        "actDate": "5/04/2023",
         "hr": 100,
         "intensity": 4,
         "length": 30,
         "notes": "I loved this workout, I'm going to do it again!",
         "type": "soccer",
-        "rating": 5
-    },
-    {
-        "actDate": "3/20/2022",
-        "hr": 100,
-        "intensity": 4,
-        "length": 30,
-        "notes": "I loved this workout, I'm going to do it again!",
-        "type": "soccer",
-        "rating": 5
-    },
-    {
-        "actDate": "3/20/2022",
-        "hr": 100,
-        "intensity": 4,
-        "length": 30,
-        "notes": "I loved this workout, I'm going to do it again!",
-        "type": "basketball",
         "rating": 5
     }
 ]
