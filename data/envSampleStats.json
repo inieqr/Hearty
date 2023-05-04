@@ -1,0 +1,47 @@
+[
+    {
+        "name": "John Doe",
+        "date": "3/19/2022",
+        "type": "env",
+        "enteredData": {
+            "age": 25,
+            "gender": "male",
+            "height": 1.85,
+            "weight": 74,
+            "smoke": "no",
+            "alco": 1,
+            "active": 1
+        },
+        "prediction": "At risk"
+    },
+    {
+        "name": "John Doe",
+        "date": "3/19/2022",
+        "type": "env",
+        "enteredData": {
+            "age": 25,
+            "gender": "male",
+            "height": 1.85,
+            "weight": 74,
+            "smoke": "no",
+            "alco": 1,
+            "active": 1
+        },
+        "prediction": "At risk"
+    },
+    {
+        "name": "John Doe",
+        "date": "3/20/2022",
+        "type": "env",
+        "enteredData": {
+            "age": 25,
+            "gender": "male",
+            "height": 1.85,
+            "weight": 74,
+            "smoke": "no",
+            "alco": 1,
+            "active": 1
+        },
+        "prediction": "At risk"
+    }
+]

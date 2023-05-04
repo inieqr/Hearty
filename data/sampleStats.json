@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Ganning Xu",
+        "date": "3/18/2022",
+        "type": "lab",
+        "enteredData": {
+            "Age": 34,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 123,
+            "Cholesterol": 14,
+            "FastingBS": 135,
+            "RestingECG": "ST",
+            "MaxHR": 134,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 12,
+            "ST_Slope": "Flat"
+        },
+        "prediction": "At risk"
+    },
+    {
+        "name": "Ganning Xu",
+        "date": "3/19/2022",
+        "type": "lab",
+        "enteredData": {
+            "Age": 34,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 123,
+            "Cholesterol": 14,
+            "FastingBS": 135,
+            "RestingECG": "ST",
+            "MaxHR": 134,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 12,
+            "ST_Slope": "Flat"
+        },
+        "prediction": "Not at risk"
+    },
+    {
+        "name": "Ganning Xu",
+        "date": "3/22/2022",
+        "type": "lab",
+        "enteredData": {
+            "Age": 34,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 123,
+            "Cholesterol": 14,
+            "FastingBS": 135,
+            "RestingECG": "ST",
+            "MaxHR": 134,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 12,
+            "ST_Slope": "Flat"
+        },
+        "prediction": "At risk"
+    },
+    {
+        "name": "Ganning Xu",
+        "date": "3/24/2022",
+        "type": "lab",
+        "enteredData": {
+            "Age": 34,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 123,
+            "Cholesterol": 14,
+            "FastingBS": 135,
+            "RestingECG": "ST",
+            "MaxHR": 134,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 12,
+            "ST_Slope": "Flat"
+        },
+        "prediction": "At risk"
+    }
+]
